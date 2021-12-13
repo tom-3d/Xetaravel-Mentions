@@ -1,5 +1,5 @@
 {
-    "name": "xetaio/xetaravel-mentions",
+    "name": "tom-3d/xetaravel-mentions",
     "description": "A package to parse a @mention from a text and mention the user with a notification.",
     "keywords": [
         "laravel",
@@ -8,10 +8,10 @@
         "users",
         "notifications"
     ],
-    "homepage": "https://github.com/XetaIO/Xetaravel-Mentions",
+    "homepage": "https://github.com/tom-3d/Xetaravel-Mentions",
     "support": {
-        "source": "https://github.com/XetaIO/Xetaravel-Mentions",
-        "issues": "https://github.com/XetaIO/Xetaravel-Mentions/issues"
+        "source": "https://github.com/tom-3d/Xetaravel-Mentions",
+        "issues": "https://github.com/tom-3d/Xetaravel-Mentions/issues"
     },
     "type": "library",
     "license": "MIT",
